@@ -1,1 +1,1 @@
-print ("hamburger")
+print ("hamburgerz")
